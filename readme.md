@@ -1,7 +1,7 @@
 # CSCI 3251 PROJECT MILESTONE 2
 
 ### About Me
-My name is Serdar KURT. You can call me KURT. I am A year1 CE student.
+My name is Serdar KURT. You can call me KURT. I am a year1 CE student.
 
 ### Languages
 * C++
